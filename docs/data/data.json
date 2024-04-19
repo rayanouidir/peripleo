@@ -1,0 +1,2503 @@
+{
+  "@id": "https://gitlab.unige.ch/Adrien.Dejean/application-info",
+  "type": "FeatureCollection",
+  "@context": "http://linkedpasts.org/assets/linkedplaces-context-v1.jsonld",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.126541,
+          34.073972
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38034"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0623-10-19",
+        "precision": "High"
+      },
+      "@id": "15360"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.153847,
+          34.118142
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33263"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36210"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "origPlace": "Antinoopolis",
+        "origDate": "[0314-01-01/0324-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "17308"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.108291,
+          34.195132
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0300-01-01/0301-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "15776"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.168106,
+          29.303135
+        ]
+      },
+      "properties": {
+        "origPlace": "Koma (Arsinoites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36846"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.185472,
+          34.145287
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37290"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35598"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35940"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0472-06-26",
+        "precision": "High"
+      },
+      "@id": "50663"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36262"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59605,
+          26.952819
+        ]
+      },
+      "properties": {
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36812"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37849"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "None",
+        "origDate": "[0360-01-01/0360-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "92762"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37134"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37146"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37087"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37866"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24189,
+          34.266707
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38521"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.517443,
+          26.899283
+        ]
+      },
+      "properties": {
+        "origPlace": "Antaiopolis",
+        "origDate": "[0553-01-01/0553-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36803"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "130554"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37480"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35967"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0451-01-01/0525-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "172220"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "78667"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0475-01-31",
+        "precision": "High"
+      },
+      "@id": "133452"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "origPlace": "Herakleopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36631"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35590"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37086"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0357-01-01/0362-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "20040"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35669"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.142125,
+          34.268632
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38035"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "34781"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0577-05-01/0583-12-28]",
+        "precision": "Medium"
+      },
+      "@id": "22007"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0550-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33680"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.121867,
+          34.229046
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35119"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0551-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36835"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "None",
+        "origDate": "0385-11-14",
+        "precision": "High"
+      },
+      "@id": "129799"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35672"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0564-05-27",
+        "precision": "High"
+      },
+      "@id": "114310"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.213371,
+          34.194591
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36188"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.839956,
+          29.314964
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoiton Polis (?)",
+        "origDate": "[0500-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "41035"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.058964,
+          34.124177
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36198"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.060523,
+          34.13226
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32365"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32646"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0476-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35600"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37865"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37084"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.106428,
+          34.155999
+        ]
+      },
+      "properties": {
+        "origPlace": "Konstantinopel oder Aphrodites Kome (Antaiopolites, \u00c4gypten)",
+        "origDate": "[0548-07-01/0548-12-28]",
+        "precision": "Medium"
+      },
+      "@id": "18048"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.070528,
+          34.150622
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32816"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37466"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0484-09-28/0484-10-27]",
+        "precision": "Medium"
+      },
+      "@id": "702445"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0517-01-14",
+        "precision": "High"
+      },
+      "@id": "22051"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37145"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.18002,
+          34.152659
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0322-05-26",
+        "precision": "High"
+      },
+      "@id": "45278"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0564-05-16/0564-05-24]",
+        "precision": "Medium"
+      },
+      "@id": "114309"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59605,
+          26.952819
+        ]
+      },
+      "properties": {
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36808"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0525-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36040"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "origPlace": "Herakleopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "34783"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.09739,
+          34.180048
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0301-01-01/0325-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32516"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0360-01-02",
+        "precision": "High"
+      },
+      "@id": "21601"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0362-01-18",
+        "precision": "High"
+      },
+      "@id": "17664"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.243249,
+          34.149749
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0322-06-21",
+        "precision": "High"
+      },
+      "@id": "45279"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59605,
+          26.952819
+        ]
+      },
+      "properties": {
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36809"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.08238,
+          34.106684
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38036"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0340-01-01/0340-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "22518"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.082735,
+          34.108799
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32352"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.217122,
+          34.214858
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37292"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.234669,
+          34.125552
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33059"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35577"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0476-01-01/0525-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35601"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59605,
+          26.952819
+        ]
+      },
+      "properties": {
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36810"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.130576,
+          34.235851
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "92439"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0365-04-05/0365-04-14]",
+        "precision": "Medium"
+      },
+      "@id": "22138"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.149658,
+          34.126243
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0322-06-16",
+        "precision": "High"
+      },
+      "@id": "45284"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37144"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35851"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.145947,
+          34.217937
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "704796"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.225948,
+          34.146844
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38314"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "43230"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59605,
+          26.952819
+        ]
+      },
+      "properties": {
+        "origPlace": "Aphrodites Kome (Antaiopolites, \u00c4gypten)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36168"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.171712,
+          34.213526
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0325-04-16",
+        "precision": "High"
+      },
+      "@id": "45281"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.230799,
+          34.095302
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0300-01-01/0301-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "15778"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0476-01-01/0525-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35596"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36848"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37090"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.25081,
+          34.213519
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "128706"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "origPlace": "Antinoopolis",
+        "origDate": "[0550-01-01/0558-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "19132"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "130552"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "origPlace": "Herakleopolites",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35190"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0473-05-16",
+        "precision": "High"
+      },
+      "@id": "50664"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.075945,
+          34.248365
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0451-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35495"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.107858,
+          34.156004
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32357"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.126468,
+          34.189825
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33686"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37089"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0346-01-01/0350-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "22179"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.217331,
+          34.134201
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35413"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0601-01-01/0625-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "39266"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37847"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.140933,
+          34.268547
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0301-01-01/0325-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32513"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0550-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35310"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36264"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0473-09-08",
+        "precision": "High"
+      },
+      "@id": "50665"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0371-06-19",
+        "precision": "High"
+      },
+      "@id": "17433"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0624-07-25",
+        "precision": "High"
+      },
+      "@id": "22010"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.13479,
+          34.124429
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36055"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37870"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "origPlace": "Herakleopolites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35855"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38527"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.09153,
+          34.159074
+        ]
+      },
+      "properties": {
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0321-04-10",
+        "precision": "High"
+      },
+      "@id": "45280"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35203"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.161571,
+          34.245662
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "128707"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "origPlace": "Antinoopolis",
+        "origDate": "[0550-01-01/0558-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "19133"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.517443,
+          26.899283
+        ]
+      },
+      "properties": {
+        "origPlace": "Antaiopolis",
+        "origDate": "[0526-01-01/0575-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36804"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.087518,
+          34.096119
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37497"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0401-01-01/0450-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35181"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0564-05-21",
+        "precision": "High"
+      },
+      "@id": "37894"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.107071,
+          34.158197
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0325-01-01/0325-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "17679"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0624-01-01/0624-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "22009"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.897603,
+          29.51644
+        ]
+      },
+      "properties": {
+        "origPlace": "Karanis (Arsinoites, \u00c4gypten)",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33591"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33603"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "34784"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.07668,
+          34.264631
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "128705"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.248629,
+          29.62792
+        ]
+      },
+      "properties": {
+        "origPlace": "Memphites",
+        "origDate": "[0626-01-01/0675-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35857"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.968603,
+          29.206382
+        ]
+      },
+      "properties": {
+        "origPlace": "Ptolemais Hormu (Arsinoites)",
+        "origDate": "[0026-01-01/0175-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "316224"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0389-01-20",
+        "precision": "High"
+      },
+      "@id": "17481"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37083"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.59605,
+          26.952819
+        ]
+      },
+      "properties": {
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37234"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.326702,
+          26.937588
+        ]
+      },
+      "properties": {
+        "origPlace": "Apollonopolis Heptakomias",
+        "origDate": "[0576-01-01/0625-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36013"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0564-05-21",
+        "precision": "High"
+      },
+      "@id": "114307"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35607"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "origPlace": "Antinoopolis (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38556"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.916624,
+          28.766518
+        ]
+      },
+      "properties": {
+        "origPlace": "Ankyron ? (Herakleopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36108"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37470"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.517443,
+          26.899283
+        ]
+      },
+      "properties": {
+        "origPlace": "Antaiopolis (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36531"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0317-01-01/0323-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "21123"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.934582,
+          29.0855
+        ]
+      },
+      "properties": {
+        "origPlace": "Herakleopolis",
+        "origDate": "0342-01-28",
+        "precision": "High"
+      },
+      "@id": "15398"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38524"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0482-03-08",
+        "precision": "High"
+      },
+      "@id": "21813"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35594"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "33711"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.17673,
+          34.240546
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "35043"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.909773,
+          31.201435
+        ]
+      },
+      "properties": {
+        "origPlace": "Alexandria (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "38395"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37887"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36865"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0410-08-09",
+        "precision": "High"
+      },
+      "@id": "15899"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.064227,
+          34.179729
+        ]
+      },
+      "properties": {
+        "origPlace": "unbekannt",
+        "origDate": "[0376-01-01/0400-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "32819"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.08033,
+          29.453786
+        ]
+      },
+      "properties": {
+        "origPlace": "Philadelphia (Arsinoites)",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "34876"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0476-05-05",
+        "precision": "High"
+      },
+      "@id": "50666"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "34785"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "37845"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0379-04-26",
+        "precision": "High"
+      },
+      "@id": "22003"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "130549"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites, \u00c4gypten",
+        "origDate": "[0576-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "36197"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium"
+      },
+      "@id": "130559"
+    }
+  ]
+}
