@@ -36,15 +36,9 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "33711"
     },
@@ -63,15 +57,9 @@
         "origDate": "0362-01-18",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "17664"
     },
@@ -108,12 +96,8 @@
         "origDate": "0473-09-08",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "50665"
     },
@@ -132,12 +116,8 @@
         "origDate": "0473-05-16",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "50664"
     },
@@ -156,15 +136,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "38527"
     },
@@ -183,15 +157,9 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35598"
     },
@@ -210,15 +178,9 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ],
-        "settlement": [
-          "Philadelphia"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Philadelphia"
       },
       "@id": "34876"
     },
@@ -255,15 +217,9 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35607"
     },
@@ -282,15 +238,9 @@
         "origDate": "[0346-01-01/0350-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22179"
     },
@@ -309,12 +259,8 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "36865"
     },
@@ -333,12 +279,8 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "35203"
     },
@@ -357,12 +299,8 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "78667"
     },
@@ -381,18 +319,9 @@
         "origDate": "0321-04-10",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "45280"
     },
@@ -411,12 +340,8 @@
         "origDate": "0476-05-05",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "50666"
     },
@@ -435,12 +360,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "35940"
     },
@@ -459,15 +380,9 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
       },
       "@id": "38524"
     },
@@ -486,18 +401,9 @@
         "origDate": "0325-04-16",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "45281"
     },
@@ -516,12 +422,8 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "32357"
     },
@@ -576,15 +478,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "36848"
     },
@@ -621,15 +517,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Antaiopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Antaiopolis"
       },
       "@id": "36531"
     },
@@ -648,12 +538,8 @@
         "origDate": "0472-06-26",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "50663"
     },
@@ -672,15 +558,9 @@
         "origDate": "[0500-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ],
-        "settlement": [
-          "Arsinoiton Polis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Arsinoiton Polis"
       },
       "@id": "41035"
     },
@@ -699,15 +579,9 @@
         "origDate": "[0484-09-28/0484-10-27]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "702445"
     },
@@ -726,18 +600,9 @@
         "origDate": "0322-06-16",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "45284"
     },
@@ -774,15 +639,9 @@
         "origDate": "[0624-01-01/0624-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22009"
     },
@@ -801,15 +660,9 @@
         "origDate": "[0501-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "36040"
     },
@@ -828,15 +681,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Herakleopolites"
-        ],
-        "settlement": [
-          "Ankyron"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites",
+        "settlement": "Ankyron"
       },
       "@id": "36108"
     },
@@ -855,12 +702,8 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "32352"
     },
@@ -879,15 +722,9 @@
         "origDate": "[0476-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35601"
     },
@@ -906,12 +743,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "43230"
     },
@@ -930,15 +763,9 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35577"
     },
@@ -957,18 +784,9 @@
         "origDate": "0322-06-21",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "45279"
     },
@@ -987,18 +805,9 @@
         "origDate": "0322-05-26",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "45278"
     },
@@ -1017,12 +826,8 @@
         "origDate": "[0564-05-16/0564-05-24]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "114309"
     },
@@ -1041,15 +846,9 @@
         "origDate": "[0476-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35600"
     },
@@ -1068,15 +867,9 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "32646"
     },
@@ -1095,15 +888,9 @@
         "origDate": "[0357-01-01/0362-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "20040"
     },
@@ -1122,18 +909,9 @@
         "origDate": "[0300-01-01/0301-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "15776"
     },
@@ -1152,9 +930,7 @@
         "origDate": "[0401-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "settlement": [
-          "Hermopolis"
-        ]
+        "settlement": "Hermopolis"
       },
       "@id": "34784"
     },
@@ -1173,12 +949,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "38035"
     },
@@ -1197,15 +969,9 @@
         "origDate": "0517-01-14",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22051"
     },
@@ -1224,15 +990,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37845"
     },
@@ -1251,15 +1011,9 @@
         "origDate": "0342-01-28",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Herakleopolites"
-        ],
-        "settlement": [
-          "Herakleopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites",
+        "settlement": "Herakleopolis"
       },
       "@id": "15398"
     },
@@ -1278,15 +1032,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37887"
     },
@@ -1305,12 +1053,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "38034"
     },
@@ -1329,9 +1073,7 @@
         "origDate": "[0401-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "settlement": [
-          "Hermopolis"
-        ]
+        "settlement": "Hermopolis"
       },
       "@id": "34785"
     },
@@ -1350,15 +1092,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "36810"
     },
@@ -1377,15 +1113,9 @@
         "origDate": "[0526-01-01/0575-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Antaiopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Antaiopolis"
       },
       "@id": "36804"
     },
@@ -1404,12 +1134,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "130554"
     },
@@ -1428,12 +1154,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Herakleopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
       },
       "@id": "35855"
     },
@@ -1452,9 +1174,7 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "settlement": [
-          "Alexandria"
-        ]
+        "settlement": "Alexandria"
       },
       "@id": "38395"
     },
@@ -1473,15 +1193,9 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
       },
       "@id": "35672"
     },
@@ -1500,12 +1214,8 @@
         "origDate": "[0626-01-01/0675-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Memphites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Memphites"
       },
       "@id": "35857"
     },
@@ -1524,15 +1234,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "36812"
     },
@@ -1551,12 +1255,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "38036"
     },
@@ -1575,15 +1275,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37847"
     },
@@ -1602,12 +1296,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37089"
     },
@@ -1626,15 +1316,9 @@
         "origDate": "[0553-01-01/0553-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Antaiopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Antaiopolis"
       },
       "@id": "36803"
     },
@@ -1653,15 +1337,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37466"
     },
@@ -1680,15 +1358,9 @@
         "origDate": "0564-05-21",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37894"
     },
@@ -1707,15 +1379,9 @@
         "origDate": "0623-10-19",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "15360"
     },
@@ -1734,15 +1400,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antinoites"
-        ],
-        "settlement": [
-          "Antinoopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
       },
       "@id": "38556"
     },
@@ -1761,12 +1421,8 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Herakleopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
       },
       "@id": "34783"
     },
@@ -1785,15 +1441,9 @@
         "origDate": "[0501-01-01/0550-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35310"
     },
@@ -1812,12 +1462,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "130552"
     },
@@ -1836,12 +1482,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Herakleopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
       },
       "@id": "36631"
     },
@@ -1860,15 +1502,9 @@
         "origDate": "0360-01-02",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "21601"
     },
@@ -1887,15 +1523,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
       },
       "@id": "35851"
     },
@@ -1914,12 +1544,8 @@
         "origDate": "[0601-01-01/0625-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "39266"
     },
@@ -1938,15 +1564,9 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
       },
       "@id": "34781"
     },
@@ -1965,15 +1585,9 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "33603"
     },
@@ -1992,15 +1606,9 @@
         "origDate": "[0340-01-01/0340-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22518"
     },
@@ -2019,15 +1627,9 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37470"
     },
@@ -2046,12 +1648,8 @@
         "origDate": "[0576-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "36197"
     },
@@ -2070,15 +1668,9 @@
         "origDate": "0385-11-14",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "129799"
     },
@@ -2097,15 +1689,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "36168"
     },
@@ -2124,12 +1710,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37086"
     },
@@ -2148,15 +1730,9 @@
         "origDate": "[0365-04-05/0365-04-14]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22138"
     },
@@ -2193,15 +1769,9 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37870"
     },
@@ -2220,15 +1790,9 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37865"
     },
@@ -2265,12 +1829,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "130549"
     },
@@ -2289,12 +1849,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37087"
     },
@@ -2313,12 +1869,8 @@
         "origDate": "[0451-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "172220"
     },
@@ -2337,15 +1889,9 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ],
-        "settlement": [
-          "Karanis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Karanis"
       },
       "@id": "33591"
     },
@@ -2364,12 +1910,8 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "92439"
     },
@@ -2388,12 +1930,8 @@
         "origDate": "0371-06-19",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "17433"
     },
@@ -2430,12 +1968,8 @@
         "origDate": "0475-01-31",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "133452"
     },
@@ -2454,15 +1988,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "36210"
     },
@@ -2481,15 +2009,9 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37866"
     },
@@ -2508,12 +2030,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37480"
     },
@@ -2532,18 +2050,9 @@
         "origDate": "[0301-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "32513"
     },
@@ -2562,9 +2071,7 @@
         "origDate": "[0576-01-01/0625-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "settlement": [
-          "Apollonopolis Heptakomias"
-        ]
+        "settlement": "Apollonopolis Heptakomias"
       },
       "@id": "36013"
     },
@@ -2619,12 +2126,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37084"
     },
@@ -2643,12 +2146,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37090"
     },
@@ -2703,12 +2202,8 @@
         "origDate": "[0360-01-01/0360-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "92762"
     },
@@ -2727,12 +2222,8 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "128705"
     },
@@ -2751,18 +2242,9 @@
         "origDate": "[0301-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "32516"
     },
@@ -2781,18 +2263,9 @@
         "origDate": "[0300-01-01/0301-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten",
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites",
-          "Hermopolites"
-        ],
-        "settlement": [
-          "Pesla",
-          "Hermopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
       },
       "@id": "15778"
     },
@@ -2811,15 +2284,9 @@
         "origDate": "0482-03-08",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "21813"
     },
@@ -2838,9 +2305,7 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "settlement": [
-          "Hermopolis"
-        ]
+        "settlement": "Hermopolis"
       },
       "@id": "35669"
     },
@@ -2877,12 +2342,8 @@
         "origDate": "[0548-07-01/0548-12-28]",
         "precision": "Medium",
         "provenance": "composed",
-        "region": [
-          "Thracia"
-        ],
-        "settlement": [
-          "Konstantinopel"
-        ]
+        "region": "Thracia",
+        "settlement": "Konstantinopel"
       },
       "@id": "18048"
     },
@@ -2901,15 +2362,9 @@
         "origDate": "[0548-07-01/0548-12-28]",
         "precision": "Medium",
         "provenance": "found",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "18048"
     },
@@ -2928,12 +2383,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "37083"
     },
@@ -2952,12 +2403,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "130559"
     },
@@ -2976,15 +2423,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "36809"
     },
@@ -3003,12 +2444,8 @@
         "origDate": "[0551-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "36835"
     },
@@ -3027,12 +2464,8 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "128706"
     },
@@ -3051,15 +2484,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37134"
     },
@@ -3078,15 +2505,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37849"
     },
@@ -3105,12 +2526,8 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "128707"
     },
@@ -3129,15 +2546,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "36808"
     },
@@ -3156,12 +2567,8 @@
         "origDate": "0564-05-27",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "114310"
     },
@@ -3180,15 +2587,9 @@
         "origDate": "[0550-01-01/0558-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antinoites"
-        ],
-        "settlement": [
-          "Antinoopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
       },
       "@id": "19132"
     },
@@ -3225,15 +2626,9 @@
         "origDate": "[0577-05-01/0583-12-28]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22007"
     },
@@ -3252,15 +2647,9 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35590"
     },
@@ -3279,15 +2668,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37146"
     },
@@ -3306,12 +2689,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "36264"
     },
@@ -3330,15 +2709,9 @@
         "origDate": "0410-08-09",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "15899"
     },
@@ -3357,12 +2730,8 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "33686"
     },
@@ -3381,15 +2750,9 @@
         "origDate": "[0550-01-01/0558-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antinoites"
-        ],
-        "settlement": [
-          "Antinoopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
       },
       "@id": "19133"
     },
@@ -3408,15 +2771,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ],
-        "settlement": [
-          "Koma"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Koma"
       },
       "@id": "36846"
     },
@@ -3435,15 +2792,9 @@
         "origDate": "[0314-01-01/0324-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antinoites"
-        ],
-        "settlement": [
-          "Antinoopolis"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
       },
       "@id": "17308"
     },
@@ -3462,12 +2813,8 @@
         "origDate": "[0401-01-01/0450-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "35181"
     },
@@ -3486,12 +2833,8 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "38314"
     },
@@ -3510,9 +2853,7 @@
         "origDate": "[0317-01-01/0323-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "settlement": [
-          "Hermopolis"
-        ]
+        "settlement": "Hermopolis"
       },
       "@id": "21123"
     },
@@ -3531,12 +2872,8 @@
         "origDate": "0564-05-21",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "114307"
     },
@@ -3555,15 +2892,9 @@
         "origDate": "0624-07-25",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22010"
     },
@@ -3582,15 +2913,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37145"
     },
@@ -3609,15 +2934,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "37144"
     },
@@ -3636,15 +2955,9 @@
         "origDate": "[0026-01-01/0175-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ],
-        "settlement": [
-          "Ptolemais Hormu"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Ptolemais Hormu"
       },
       "@id": "316224"
     },
@@ -3681,15 +2994,9 @@
         "origDate": "[0476-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35596"
     },
@@ -3708,12 +3015,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Arsinoites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
       },
       "@id": "36262"
     },
@@ -3732,15 +3035,9 @@
         "origDate": "[0501-01-01/0550-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "33680"
     },
@@ -3759,12 +3056,8 @@
         "origDate": "0389-01-20",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "17481"
     },
@@ -3783,12 +3076,8 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Hermopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
       },
       "@id": "32365"
     },
@@ -3807,12 +3096,8 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
       },
       "@id": "35967"
     },
@@ -3831,15 +3116,9 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "35594"
     },
@@ -3858,15 +3137,9 @@
         "origDate": "0379-04-26",
         "precision": "High",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Oxyrhynchites"
-        ],
-        "settlement": [
-          "Oxyrhynchos"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
       },
       "@id": "22003"
     },
@@ -3885,15 +3158,9 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Antaiopolites"
-        ],
-        "settlement": [
-          "Aphrodites Kome"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
       },
       "@id": "37234"
     },
@@ -3912,12 +3179,8 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "region": [
-          "\u00c4gypten"
-        ],
-        "nome": [
-          "Herakleopolites"
-        ]
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
       },
       "@id": "35190"
     }
