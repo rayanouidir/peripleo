@@ -7,4 +7,7 @@
       "src": "./data/data.json"
     }
   ]
+  "facets": [
+  {"name": "provenance", "path": ["properties", "provenance"]"}
+  ]
 }
