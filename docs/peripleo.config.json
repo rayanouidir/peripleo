@@ -8,6 +8,7 @@
     }
   ],
   "facets": [
-	  {"name": "provenance", "path": ["properties", "provenance"]}
+	  {"name": "provenance", "path": ["properties", "provenance"]},
+	  {"name": "region", "path": ["properties", "region"]}
   ]
 }
