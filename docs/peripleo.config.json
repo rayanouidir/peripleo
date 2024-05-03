@@ -6,7 +6,8 @@
       "format": "LINKED_PLACES",
       "src": "./data/data.json"
     }
+  ],
+  "facets": [
+  {"name": "provenance", "path": ["properties", "provenance"]}
   ]
-
-  
 }
