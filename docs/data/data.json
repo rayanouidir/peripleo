@@ -5,6 +5,9 @@
   "features": [
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/32816.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -26,6 +29,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/33711.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49,6 +55,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/17664.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -73,6 +82,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/704796.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -93,6 +105,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/50665.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -115,6 +130,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/50664.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -137,6 +155,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/38527.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -160,6 +181,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35598.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -183,6 +207,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/34876.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -206,6 +233,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/35413.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -226,6 +256,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35607.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -249,6 +282,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Warrant (TI)\nGrammateus link : https://grammateus.unige.ch/document/22179.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -272,6 +308,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/36865.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -294,6 +333,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35203.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -316,6 +358,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/78667.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -338,6 +383,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/45280.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -361,6 +409,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/50666.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -383,6 +434,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/35940.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -405,6 +459,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Warrant (TI)\nGrammateus link : https://grammateus.unige.ch/document/38524.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -428,6 +485,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/45281.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -452,6 +512,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/32357.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -475,6 +538,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/33263.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -495,6 +561,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/33059.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -515,6 +584,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/36848.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -538,6 +610,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/36055.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -558,6 +633,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36531.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -581,6 +659,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/50663.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -603,6 +684,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/41035.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -626,6 +710,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/702445.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -649,6 +736,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/45284.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -672,6 +762,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/38521.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -692,6 +785,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/22009.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -715,6 +811,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36040.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -738,6 +837,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/36108.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -761,6 +863,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/32352.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -783,6 +888,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35601.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -806,6 +914,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/43230.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -828,6 +939,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/35577.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -851,6 +965,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/45279.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -874,6 +991,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/45278.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -897,6 +1017,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/114309.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -919,6 +1042,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35600.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -942,6 +1068,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/32646.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -965,6 +1094,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/20040.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -989,6 +1121,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/15776.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1012,6 +1147,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/34784.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1033,6 +1171,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/38035.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1055,6 +1196,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/22051.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1078,6 +1222,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37845.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1101,6 +1248,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/15398.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1124,6 +1274,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37887.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1147,6 +1300,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/38034.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1169,6 +1325,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/34785.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1190,6 +1349,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36810.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1213,6 +1375,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36804.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1236,6 +1401,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/130554.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1258,6 +1426,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/35855.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1280,6 +1451,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/38395.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1301,6 +1475,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/35672.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1324,6 +1501,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/35857.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1346,6 +1526,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36812.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1369,6 +1552,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/38036.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1391,6 +1577,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37847.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1414,6 +1603,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37089.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1436,6 +1628,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36803.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1459,6 +1654,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/37466.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1482,6 +1680,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37894.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1505,6 +1706,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/15360.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1528,6 +1732,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/38556.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1551,6 +1758,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/34783.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1573,6 +1783,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35310.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1596,6 +1809,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/130552.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1618,6 +1834,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36631.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1640,6 +1859,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/21601.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1664,6 +1886,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35851.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1687,6 +1912,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/39266.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1709,6 +1937,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/34781.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1732,6 +1963,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/33603.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1755,6 +1989,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/22518.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1778,6 +2015,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/37470.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1801,6 +2041,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/36197.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1823,6 +2066,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/129799.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1847,6 +2093,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36168.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1870,6 +2119,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37086.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1892,6 +2144,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/22138.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1916,6 +2171,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37290.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1936,6 +2194,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37870.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1959,6 +2220,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37865.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1982,6 +2246,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/37497.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2002,6 +2269,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/130549.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2024,6 +2294,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37087.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2046,6 +2319,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/172220.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2068,6 +2344,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/33591.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2091,6 +2370,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/92439.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2113,6 +2395,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/17433.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2136,6 +2421,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/35043.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2156,6 +2444,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/133452.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2178,6 +2469,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/36210.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2201,6 +2495,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37866.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2224,6 +2521,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37480.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2246,6 +2546,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/32513.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2269,6 +2572,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/36013.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2290,6 +2596,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/36198.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2310,6 +2619,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/37292.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2330,6 +2642,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37084.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2352,6 +2667,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37090.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2374,6 +2692,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36188.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2394,6 +2715,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35495.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2414,6 +2738,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/92762.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2436,6 +2763,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/128705.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2458,6 +2788,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/32516.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2482,6 +2815,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/15778.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2505,6 +2841,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/21813.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2528,6 +2867,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/35669.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2549,6 +2891,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/35119.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2569,6 +2914,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/18048.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2591,6 +2939,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/18048.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2614,6 +2965,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/37083.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2636,6 +2990,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/130559.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2658,6 +3015,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36809.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2681,6 +3041,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/36835.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2703,6 +3066,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/128706.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2725,6 +3091,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/37134.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2748,6 +3117,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37849.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2771,6 +3143,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/128707.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2793,6 +3168,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36808.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2816,6 +3194,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/114310.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2838,6 +3219,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/19132.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2861,6 +3245,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/17679.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2881,6 +3268,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/22007.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2904,6 +3294,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/35590.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2927,6 +3320,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/37146.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2950,6 +3346,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/36264.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2972,6 +3371,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/15899.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2996,6 +3398,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/33686.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3019,6 +3424,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/19133.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3042,6 +3450,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/36846.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3065,6 +3476,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/17308.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3088,6 +3502,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/35181.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3110,6 +3527,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Warrant (TI)\nGrammateus link : https://grammateus.unige.ch/document/38314.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3132,6 +3552,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/21123.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3153,6 +3576,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/114307.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3175,6 +3601,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/22010.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3198,6 +3627,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/37145.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3221,6 +3653,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/37144.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3244,6 +3679,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Warrant (TI)\nGrammateus link : https://grammateus.unige.ch/document/316224.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3267,6 +3705,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/32819.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3288,6 +3729,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35596.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3311,6 +3755,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Note \nGrammateus link : https://grammateus.unige.ch/document/36262.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3333,6 +3780,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/33680.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3356,6 +3806,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/17481.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3379,6 +3832,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/32365.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3402,6 +3858,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/35967.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3424,6 +3883,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Official Letter \nGrammateus link : https://grammateus.unige.ch/document/35594.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3447,6 +3909,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/22003.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3471,6 +3936,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Private Letter \nGrammateus link : https://grammateus.unige.ch/document/37234.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3494,6 +3962,9 @@
     },
     {
       "type": "Feature",
+      "descriptions": {
+        "value": "Business Letter \nGrammateus link : https://grammateus.unige.ch/document/35190.xml"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
