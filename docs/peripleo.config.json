@@ -2,9 +2,10 @@
     "initial_bounds": [38.3, 16.8, 19.5, 52.4],
     "map_style": "./map-style-OSM.json",
     "data": [
-      {
+      { "name": "grammateus",
         "format": "LINKED_PLACES",
         "src": "./data/data.json"
+        "attribution": "grammateus © <a href=\"https:grammateus.unige.ch\" target=\"_blank\"><i>a typology of documentary papyri</i></a>"
       }
     ],
     "facets": [
