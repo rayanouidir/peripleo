@@ -13,7 +13,7 @@
         {"name": "type", "path": ["properties", "type"]},
         {"name": "subtype", "path": ["properties", "subtype"]},
         {"name": "variation", "path": ["properties", "variation"]}
-        {"name": "precision", "path": ["properties", "precision"]}
+        {"name": "settlement", "path": ["properties", "precision"]}
     ]
   }
   
