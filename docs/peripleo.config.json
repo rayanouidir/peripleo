@@ -2,7 +2,7 @@
     "initial_bounds": [38.3, 16.8, 19.5, 52.4],
     "map_style": "./map-style-OSM.json",
     "data": [
-      { 
+      {
         "format": "LINKED_PLACES",
         "src": "./data/data.json"
       }
@@ -13,7 +13,5 @@
         {"name": "type", "path": ["properties", "type"]},
         {"name": "subtype", "path": ["properties", "subtype"]},
         {"name": "variation", "path": ["properties", "variation"]}
-        {"name": "settlement", "path": ["properties", "precision"]}
     ]
   }
-  
