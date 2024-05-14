@@ -13,7 +13,6 @@
         {"name": "type", "path": ["properties", "type"]},
         {"name": "subtype", "path": ["properties", "subtype"]},
         {"name": "variation", "path": ["properties", "variation"]}
-        {"name": "variation", "path": ["properties", "origDate"]}
     ]
   }
   
