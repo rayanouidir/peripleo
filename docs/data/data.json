@@ -9,14 +9,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/32816\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -43,14 +45,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/33711\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -79,14 +83,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/17664\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0362-01-18"
-          },
-          "end": {
-            "in": "0362-01-18"
+        "timespans": [
+          {
+            "start": {
+              "in": "0362-01-18"
+            },
+            "end": {
+              "in": "0362-01-18"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -116,14 +122,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/704796\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -149,14 +157,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/50665\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0473-09-08"
-          },
-          "end": {
-            "in": "0473-09-08"
+        "timespans": [
+          {
+            "start": {
+              "in": "0473-09-08"
+            },
+            "end": {
+              "in": "0473-09-08"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -184,14 +194,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/50664\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0473-05-16"
-          },
-          "end": {
-            "in": "0473-05-16"
+        "timespans": [
+          {
+            "start": {
+              "in": "0473-05-16"
+            },
+            "end": {
+              "in": "0473-05-16"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -219,14 +231,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/38527\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -255,14 +269,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35598\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -291,14 +307,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/34876\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -327,14 +345,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/35413\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -360,14 +380,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35607\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -396,14 +418,16 @@
         "value": "<p>Warrant (TI)<br><a href=\"https://grammateus.unige.ch/document/22179\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0346-01-01"
-          },
-          "end": {
-            "in": "0350-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0346-01-01"
+            },
+            "end": {
+              "in": "0350-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -432,14 +456,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/36865\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -467,14 +493,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35203\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -502,14 +530,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/78667\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -537,14 +567,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/45280\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0321-04-10"
-          },
-          "end": {
-            "in": "0321-04-10"
+        "timespans": [
+          {
+            "start": {
+              "in": "0321-04-10"
+            },
+            "end": {
+              "in": "0321-04-10"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -573,14 +605,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/50666\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0476-05-05"
-          },
-          "end": {
-            "in": "0476-05-05"
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-05-05"
+            },
+            "end": {
+              "in": "0476-05-05"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -608,14 +642,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/35940\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -643,14 +679,16 @@
         "value": "<p>Warrant (TI)<br><a href=\"https://grammateus.unige.ch/document/38524\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -679,14 +717,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/45281\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0325-04-16"
-          },
-          "end": {
-            "in": "0325-04-16"
+        "timespans": [
+          {
+            "start": {
+              "in": "0325-04-16"
+            },
+            "end": {
+              "in": "0325-04-16"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -716,14 +756,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/32357\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -752,14 +794,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/33263\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -785,14 +829,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/33059\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -818,14 +864,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/36848\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -854,14 +902,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/36055\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -887,14 +937,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36531\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -923,14 +975,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/50663\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0472-06-26"
-          },
-          "end": {
-            "in": "0472-06-26"
+        "timespans": [
+          {
+            "start": {
+              "in": "0472-06-26"
+            },
+            "end": {
+              "in": "0472-06-26"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -958,14 +1012,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/41035\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0500-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0500-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -994,14 +1050,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/702445\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0484-09-28"
-          },
-          "end": {
-            "in": "0484-10-27"
+        "timespans": [
+          {
+            "start": {
+              "in": "0484-09-28"
+            },
+            "end": {
+              "in": "0484-10-27"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1030,14 +1088,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/45284\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0322-06-16"
-          },
-          "end": {
-            "in": "0322-06-16"
+        "timespans": [
+          {
+            "start": {
+              "in": "0322-06-16"
+            },
+            "end": {
+              "in": "0322-06-16"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1066,14 +1126,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/38521\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1099,14 +1161,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/22009\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0624-01-01"
-          },
-          "end": {
-            "in": "0624-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0624-01-01"
+            },
+            "end": {
+              "in": "0624-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1135,14 +1199,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36040\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0525-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1171,14 +1237,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/36108\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1207,14 +1275,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/32352\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1242,14 +1312,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35601\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0476-01-01"
-          },
-          "end": {
-            "in": "0525-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1278,14 +1350,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/43230\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1313,14 +1387,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/35577\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1349,14 +1425,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/45279\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0322-06-21"
-          },
-          "end": {
-            "in": "0322-06-21"
+        "timespans": [
+          {
+            "start": {
+              "in": "0322-06-21"
+            },
+            "end": {
+              "in": "0322-06-21"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1385,14 +1463,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/45278\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0322-05-26"
-          },
-          "end": {
-            "in": "0322-05-26"
+        "timespans": [
+          {
+            "start": {
+              "in": "0322-05-26"
+            },
+            "end": {
+              "in": "0322-05-26"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1421,14 +1501,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/114309\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0564-05-16"
-          },
-          "end": {
-            "in": "0564-05-24"
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-16"
+            },
+            "end": {
+              "in": "0564-05-24"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1456,14 +1538,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35600\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0476-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1492,14 +1576,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/32646\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1528,14 +1614,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/20040\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0357-01-01"
-          },
-          "end": {
-            "in": "0362-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0357-01-01"
+            },
+            "end": {
+              "in": "0362-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1565,14 +1653,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/15776\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0300-01-01"
-          },
-          "end": {
-            "in": "0301-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0300-01-01"
+            },
+            "end": {
+              "in": "0301-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1601,14 +1691,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/34784\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1635,14 +1727,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/38035\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1670,14 +1764,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/22051\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0517-01-14"
-          },
-          "end": {
-            "in": "0517-01-14"
+        "timespans": [
+          {
+            "start": {
+              "in": "0517-01-14"
+            },
+            "end": {
+              "in": "0517-01-14"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1706,14 +1802,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37845\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1742,14 +1840,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/15398\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0342-01-28"
-          },
-          "end": {
-            "in": "0342-01-28"
+        "timespans": [
+          {
+            "start": {
+              "in": "0342-01-28"
+            },
+            "end": {
+              "in": "0342-01-28"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1778,14 +1878,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37887\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1814,14 +1916,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/38034\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1849,14 +1953,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/34785\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1883,14 +1989,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36810\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1919,14 +2027,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36804\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0526-01-01"
-          },
-          "end": {
-            "in": "0575-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0526-01-01"
+            },
+            "end": {
+              "in": "0575-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1955,14 +2065,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/130554\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1990,14 +2102,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/35855\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2025,14 +2139,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/38395\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2059,14 +2175,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/35672\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2095,14 +2213,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/35857\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0626-01-01"
-          },
-          "end": {
-            "in": "0675-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0626-01-01"
+            },
+            "end": {
+              "in": "0675-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2130,14 +2250,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36812\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2166,14 +2288,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/38036\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2201,14 +2325,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37847\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2237,14 +2363,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37089\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2272,14 +2400,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36803\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0553-01-01"
-          },
-          "end": {
-            "in": "0553-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0553-01-01"
+            },
+            "end": {
+              "in": "0553-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2308,14 +2438,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/37466\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2344,14 +2476,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37894\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0564-05-21"
-          },
-          "end": {
-            "in": "0564-05-21"
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-21"
+            },
+            "end": {
+              "in": "0564-05-21"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2380,14 +2514,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/15360\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0623-10-19"
-          },
-          "end": {
-            "in": "0623-10-19"
+        "timespans": [
+          {
+            "start": {
+              "in": "0623-10-19"
+            },
+            "end": {
+              "in": "0623-10-19"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2416,14 +2552,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/38556\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2452,14 +2590,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/34783\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2487,14 +2627,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35310\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0550-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0550-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2523,14 +2665,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/130552\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2558,14 +2702,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36631\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2593,14 +2739,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/21601\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0360-01-02"
-          },
-          "end": {
-            "in": "0360-01-02"
+        "timespans": [
+          {
+            "start": {
+              "in": "0360-01-02"
+            },
+            "end": {
+              "in": "0360-01-02"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2630,14 +2778,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35851\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2666,14 +2816,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/39266\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0601-01-01"
-          },
-          "end": {
-            "in": "0625-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0601-01-01"
+            },
+            "end": {
+              "in": "0625-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2701,14 +2853,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/34781\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2737,14 +2891,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/33603\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2773,14 +2929,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/22518\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0340-01-01"
-          },
-          "end": {
-            "in": "0340-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0340-01-01"
+            },
+            "end": {
+              "in": "0340-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2809,14 +2967,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/37470\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2845,14 +3005,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/36197\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0576-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0576-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2880,14 +3042,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/129799\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0385-11-14"
-          },
-          "end": {
-            "in": "0385-11-14"
+        "timespans": [
+          {
+            "start": {
+              "in": "0385-11-14"
+            },
+            "end": {
+              "in": "0385-11-14"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2917,14 +3081,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36168\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2953,14 +3119,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37086\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2988,14 +3156,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/22138\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0365-04-05"
-          },
-          "end": {
-            "in": "0365-04-14"
+        "timespans": [
+          {
+            "start": {
+              "in": "0365-04-05"
+            },
+            "end": {
+              "in": "0365-04-14"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3025,14 +3195,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37290\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3058,14 +3230,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37870\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3094,14 +3268,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37865\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3130,14 +3306,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/37497\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3163,14 +3341,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/130549\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3198,14 +3378,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37087\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3233,14 +3415,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/172220\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0451-01-01"
-          },
-          "end": {
-            "in": "0525-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0451-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3268,14 +3452,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/33591\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3304,14 +3490,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/92439\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3339,14 +3527,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/17433\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0371-06-19"
-          },
-          "end": {
-            "in": "0371-06-19"
+        "timespans": [
+          {
+            "start": {
+              "in": "0371-06-19"
+            },
+            "end": {
+              "in": "0371-06-19"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3375,14 +3565,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/35043\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3408,14 +3600,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/133452\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0475-01-31"
-          },
-          "end": {
-            "in": "0475-01-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0475-01-31"
+            },
+            "end": {
+              "in": "0475-01-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3443,14 +3637,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/36210\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3479,14 +3675,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37866\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3515,14 +3713,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37480\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3550,14 +3750,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/32513\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0325-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0325-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3586,14 +3788,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/36013\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0576-01-01"
-          },
-          "end": {
-            "in": "0625-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0576-01-01"
+            },
+            "end": {
+              "in": "0625-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3620,14 +3824,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/36198\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3653,14 +3859,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/37292\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3686,14 +3894,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37084\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3721,14 +3931,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37090\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3756,14 +3968,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36188\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3789,14 +4003,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35495\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0451-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0451-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3822,14 +4038,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/92762\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0360-01-01"
-          },
-          "end": {
-            "in": "0360-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0360-01-01"
+            },
+            "end": {
+              "in": "0360-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3857,14 +4075,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/128705\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3892,14 +4112,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/32516\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0325-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0325-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3929,14 +4151,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/15778\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0300-01-01"
-          },
-          "end": {
-            "in": "0301-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0300-01-01"
+            },
+            "end": {
+              "in": "0301-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3965,14 +4189,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/21813\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0482-03-08"
-          },
-          "end": {
-            "in": "0482-03-08"
+        "timespans": [
+          {
+            "start": {
+              "in": "0482-03-08"
+            },
+            "end": {
+              "in": "0482-03-08"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4001,14 +4227,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/35669\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4035,14 +4263,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/35119\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4068,14 +4298,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0548-07-01"
-          },
-          "end": {
-            "in": "0548-12-28"
+        "timespans": [
+          {
+            "start": {
+              "in": "0548-07-01"
+            },
+            "end": {
+              "in": "0548-12-28"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4103,14 +4335,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0548-07-01"
-          },
-          "end": {
-            "in": "0548-12-28"
+        "timespans": [
+          {
+            "start": {
+              "in": "0548-07-01"
+            },
+            "end": {
+              "in": "0548-12-28"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4139,14 +4373,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/37083\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4174,14 +4410,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/130559\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4209,14 +4447,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36809\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4245,14 +4485,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/36835\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0551-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0551-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4280,14 +4522,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/128706\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4315,14 +4559,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/37134\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4351,14 +4597,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37849\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4387,14 +4635,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/128707\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4422,14 +4672,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36808\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4458,14 +4710,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/114310\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0564-05-27"
-          },
-          "end": {
-            "in": "0564-05-27"
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-27"
+            },
+            "end": {
+              "in": "0564-05-27"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4493,14 +4747,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/19132\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0550-01-01"
-          },
-          "end": {
-            "in": "0558-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0550-01-01"
+            },
+            "end": {
+              "in": "0558-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4529,14 +4785,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/17679\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0325-01-01"
-          },
-          "end": {
-            "in": "0325-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0325-01-01"
+            },
+            "end": {
+              "in": "0325-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4562,14 +4820,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/22007\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0577-05-01"
-          },
-          "end": {
-            "in": "0583-12-28"
+        "timespans": [
+          {
+            "start": {
+              "in": "0577-05-01"
+            },
+            "end": {
+              "in": "0583-12-28"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4598,14 +4858,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/35590\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4634,14 +4896,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/37146\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4670,14 +4934,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/36264\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4705,14 +4971,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/15899\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0410-08-09"
-          },
-          "end": {
-            "in": "0410-08-09"
+        "timespans": [
+          {
+            "start": {
+              "in": "0410-08-09"
+            },
+            "end": {
+              "in": "0410-08-09"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4742,14 +5010,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/33686\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4778,14 +5048,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/19133\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0550-01-01"
-          },
-          "end": {
-            "in": "0558-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0550-01-01"
+            },
+            "end": {
+              "in": "0558-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4814,14 +5086,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/36846\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4850,14 +5124,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/17308\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0314-01-01"
-          },
-          "end": {
-            "in": "0324-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0314-01-01"
+            },
+            "end": {
+              "in": "0324-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4886,14 +5162,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/35181\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0450-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0450-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4921,14 +5199,16 @@
         "value": "<p>Warrant (TI)<br><a href=\"https://grammateus.unige.ch/document/38314\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0700-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4956,14 +5236,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/21123\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0317-01-01"
-          },
-          "end": {
-            "in": "0323-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0317-01-01"
+            },
+            "end": {
+              "in": "0323-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4990,14 +5272,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/114307\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0564-05-21"
-          },
-          "end": {
-            "in": "0564-05-21"
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-21"
+            },
+            "end": {
+              "in": "0564-05-21"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5025,14 +5309,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/22010\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0624-07-25"
-          },
-          "end": {
-            "in": "0624-07-25"
+        "timespans": [
+          {
+            "start": {
+              "in": "0624-07-25"
+            },
+            "end": {
+              "in": "0624-07-25"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5061,14 +5347,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/37145\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5097,14 +5385,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/37144\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5133,14 +5423,16 @@
         "value": "<p>Warrant (TI)<br><a href=\"https://grammateus.unige.ch/document/316224\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0026-01-01"
-          },
-          "end": {
-            "in": "0175-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0026-01-01"
+            },
+            "end": {
+              "in": "0175-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5169,14 +5461,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/32819\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0376-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0376-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5203,14 +5497,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35596\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0476-01-01"
-          },
-          "end": {
-            "in": "0525-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5239,14 +5535,16 @@
         "value": "<p>Business Note <br><a href=\"https://grammateus.unige.ch/document/36262\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5274,14 +5572,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/33680\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0550-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0550-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5310,14 +5610,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/17481\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0389-01-20"
-          },
-          "end": {
-            "in": "0389-01-20"
+        "timespans": [
+          {
+            "start": {
+              "in": "0389-01-20"
+            },
+            "end": {
+              "in": "0389-01-20"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5346,14 +5648,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/32365\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0301-01-01"
-          },
-          "end": {
-            "in": "0400-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5382,14 +5686,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/35967\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5417,14 +5723,16 @@
         "value": "<p>Official Letter <br><a href=\"https://grammateus.unige.ch/document/35594\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5453,14 +5761,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/22003\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0379-04-26"
-          },
-          "end": {
-            "in": "0379-04-26"
+        "timespans": [
+          {
+            "start": {
+              "in": "0379-04-26"
+            },
+            "end": {
+              "in": "0379-04-26"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5490,14 +5800,16 @@
         "value": "<p>Private Letter <br><a href=\"https://grammateus.unige.ch/document/37234\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0501-01-01"
-          },
-          "end": {
-            "in": "0600-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5526,14 +5838,16 @@
         "value": "<p>Business Letter <br><a href=\"https://grammateus.unige.ch/document/35190\">Grammateus Link</a></p>"
       },
       "when": {
-        "timespans": {
-          "start": {
-            "in": "0401-01-01"
-          },
-          "end": {
-            "in": "0500-12-31"
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
           }
-        }
+        ]
       },
       "geometry": {
         "type": "Point",
