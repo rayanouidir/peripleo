@@ -34,7 +34,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -73,7 +74,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -113,7 +115,9 @@
         "origDate": "0362-01-18",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -155,7 +159,8 @@
         "provenance": "unknown",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter "
@@ -192,7 +197,9 @@
         "origDate": "0473-09-08",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -230,7 +237,9 @@
         "origDate": "0473-05-16",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -269,7 +278,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -311,7 +321,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -353,7 +364,8 @@
         "provenance": "located",
         "centuries": [
           4,
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -394,7 +406,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter "
@@ -432,7 +445,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -472,7 +486,9 @@
         "origDate": "[0346-01-01/0350-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -512,7 +528,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -553,7 +570,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -593,7 +611,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -632,7 +651,9 @@
         "origDate": "0321-04-10",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -671,7 +692,9 @@
         "origDate": "0476-05-05",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -710,7 +733,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -751,7 +775,8 @@
         "provenance": "located",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -791,7 +816,9 @@
         "origDate": "0325-04-16",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -832,7 +859,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -873,7 +901,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter "
@@ -912,7 +941,8 @@
         "provenance": "unknown",
         "centuries": [
           4,
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter "
@@ -950,7 +980,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -992,7 +1023,8 @@
         "provenance": "unknown",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter "
@@ -1030,7 +1062,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -1070,7 +1103,9 @@
         "origDate": "0472-06-26",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1108,7 +1143,9 @@
         "origDate": "[0500-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1147,7 +1184,9 @@
         "origDate": "[0484-09-28/0484-10-27]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1186,7 +1225,9 @@
         "origDate": "0322-06-16",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1226,7 +1267,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter "
@@ -1263,7 +1305,9 @@
         "origDate": "[0624-01-01/0624-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          7
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1302,7 +1346,9 @@
         "origDate": "[0501-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1342,7 +1388,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1383,7 +1430,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1423,7 +1471,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1464,7 +1513,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1504,7 +1554,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1544,7 +1595,9 @@
         "origDate": "0322-06-21",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1583,7 +1636,9 @@
         "origDate": "0322-05-26",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1622,7 +1677,9 @@
         "origDate": "[0564-05-16/0564-05-24]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1661,7 +1718,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1703,7 +1761,8 @@
         "provenance": "located",
         "centuries": [
           4,
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1743,7 +1802,9 @@
         "origDate": "[0357-01-01/0362-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -1783,7 +1844,9 @@
         "origDate": "[0300-01-01/0301-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1825,7 +1888,8 @@
         "centuries": [
           5,
           6,
-          7
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1864,7 +1928,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1903,7 +1968,9 @@
         "origDate": "0517-01-14",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1943,7 +2010,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1983,7 +2051,9 @@
         "origDate": "0342-01-28",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2023,7 +2093,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -2064,7 +2135,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2106,7 +2178,8 @@
         "centuries": [
           5,
           6,
-          7
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2145,7 +2218,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2185,7 +2259,9 @@
         "origDate": "[0526-01-01/0575-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2225,7 +2301,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2265,7 +2342,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2305,7 +2383,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2345,7 +2424,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2385,7 +2465,9 @@
         "origDate": "[0626-01-01/0675-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          7
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2424,7 +2506,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2465,7 +2548,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2505,7 +2589,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -2546,7 +2631,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2585,7 +2671,9 @@
         "origDate": "[0553-01-01/0553-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2625,7 +2713,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -2665,7 +2754,9 @@
         "origDate": "0564-05-21",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2704,7 +2795,9 @@
         "origDate": "0623-10-19",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          7
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2744,7 +2837,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2786,7 +2880,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2825,7 +2920,9 @@
         "origDate": "[0501-01-01/0550-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2865,7 +2962,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2905,7 +3003,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2944,7 +3043,9 @@
         "origDate": "0360-01-02",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -2985,7 +3086,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3025,7 +3127,9 @@
         "origDate": "[0601-01-01/0625-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          7
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3065,7 +3169,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3107,7 +3212,8 @@
         "provenance": "located",
         "centuries": [
           4,
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3147,7 +3253,9 @@
         "origDate": "[0340-01-01/0340-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3188,7 +3296,8 @@
         "provenance": "located",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3229,7 +3338,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3268,7 +3378,9 @@
         "origDate": "0385-11-14",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3309,7 +3421,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -3350,7 +3463,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3389,7 +3503,9 @@
         "origDate": "[0365-04-05/0365-04-14]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3431,7 +3547,8 @@
         "provenance": "unknown",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter "
@@ -3470,7 +3587,8 @@
         "provenance": "located",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3512,7 +3630,8 @@
         "provenance": "located",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3553,7 +3672,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter "
@@ -3591,7 +3711,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3631,7 +3752,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3671,7 +3793,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3711,7 +3834,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3753,7 +3877,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3792,7 +3917,9 @@
         "origDate": "0371-06-19",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3834,7 +3961,8 @@
         "centuries": [
           5,
           6,
-          7
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note "
@@ -3871,7 +3999,9 @@
         "origDate": "0475-01-31",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -3910,7 +4040,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3952,7 +4083,8 @@
         "provenance": "located",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3993,7 +4125,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4032,7 +4165,9 @@
         "origDate": "[0301-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4072,7 +4207,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4111,7 +4247,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter "
@@ -4149,7 +4286,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter "
@@ -4187,7 +4325,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4227,7 +4366,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4267,7 +4407,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter "
@@ -4305,7 +4446,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter "
@@ -4342,7 +4484,9 @@
         "origDate": "[0360-01-01/0360-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -4382,7 +4526,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4421,7 +4566,9 @@
         "origDate": "[0301-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4461,7 +4608,9 @@
         "origDate": "[0300-01-01/0301-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4500,7 +4649,9 @@
         "origDate": "0482-03-08",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4540,7 +4691,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4579,7 +4731,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter "
@@ -4616,7 +4769,9 @@
         "origDate": "[0548-07-01/0548-12-28]",
         "precision": "Medium",
         "provenance": "composed",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "Thracia",
@@ -4654,7 +4809,9 @@
         "origDate": "[0548-07-01/0548-12-28]",
         "precision": "Medium",
         "provenance": "found",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -4694,7 +4851,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4734,7 +4892,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4774,7 +4933,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -4815,7 +4975,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4856,7 +5017,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4896,7 +5058,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -4937,7 +5100,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4979,7 +5143,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5019,7 +5184,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5059,7 +5225,9 @@
         "origDate": "0564-05-27",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5097,7 +5265,9 @@
         "origDate": "[0550-01-01/0558-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5136,7 +5306,9 @@
         "origDate": "[0325-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter "
       },
@@ -5172,7 +5344,9 @@
         "origDate": "[0577-05-01/0583-12-28]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5213,7 +5387,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5254,7 +5429,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5295,7 +5471,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5334,7 +5511,9 @@
         "origDate": "0410-08-09",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -5376,7 +5555,8 @@
         "provenance": "located",
         "centuries": [
           4,
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5416,7 +5596,9 @@
         "origDate": "[0550-01-01/0558-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5456,7 +5638,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5496,7 +5679,9 @@
         "origDate": "[0314-01-01/0324-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5535,7 +5720,9 @@
         "origDate": "[0401-01-01/0450-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          5
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5575,7 +5762,8 @@
         "provenance": "located",
         "centuries": [
           6,
-          7
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -5614,7 +5802,9 @@
         "origDate": "[0317-01-01/0323-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "settlement": "Hermopolis"
@@ -5651,7 +5841,9 @@
         "origDate": "0564-05-21",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5689,7 +5881,9 @@
         "origDate": "0624-07-25",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          7
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5729,7 +5923,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5770,7 +5965,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5811,7 +6007,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          1
+          1,
+          2
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -5852,7 +6049,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5891,7 +6089,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5932,7 +6131,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5971,7 +6171,9 @@
         "origDate": "[0501-01-01/0550-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          6
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -6010,7 +6212,9 @@
         "origDate": "0389-01-20",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6050,7 +6254,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -6091,7 +6296,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -6132,7 +6338,8 @@
         "provenance": "located",
         "centuries": [
           5,
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -6172,7 +6379,9 @@
         "origDate": "0379-04-26",
         "precision": "High",
         "provenance": "located",
-        "centuries": [],
+        "centuries": [
+          4
+        ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6213,7 +6422,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -6254,7 +6464,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
