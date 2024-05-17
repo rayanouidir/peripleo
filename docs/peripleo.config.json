@@ -13,5 +13,6 @@
         {"name": "type", "path": ["properties", "type"]},
         {"name": "subtype", "path": ["properties", "subtype"]},
         {"name": "variation", "path": ["properties", "variation"]}
+        {"name": "siecle", "path": ["properties", "exactitude siecle","siecle exact"]}
     ]
   }
