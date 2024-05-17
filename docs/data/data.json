@@ -33,10 +33,10 @@
         "origDate": "[0576-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -75,9 +75,11 @@
         "origDate": "0362-01-18",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -118,10 +120,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -161,9 +163,11 @@
         "origDate": "0624-07-25",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          7
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "6",
+        "siecle 2": -1,
+        "siecle debut": "6",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -203,11 +207,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "coord_name": "Unknown"
@@ -244,11 +247,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -288,10 +290,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -330,10 +332,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -373,9 +375,11 @@
         "origDate": "0322-06-21",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -415,9 +419,11 @@
         "origDate": "0623-10-19",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          7
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "6",
+        "siecle 2": -1,
+        "siecle debut": "6",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -457,10 +463,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "coord_name": "Unknown"
@@ -497,10 +503,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -540,10 +546,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -582,10 +588,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -624,11 +630,10 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "5",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -668,10 +673,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -711,10 +716,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -754,10 +759,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -796,10 +801,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "coord_name": "Unknown"
@@ -836,10 +841,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -879,9 +884,11 @@
         "origDate": "[0564-05-16/0564-05-24]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -920,9 +927,11 @@
         "origDate": "[0484-09-28/0484-10-27]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -962,9 +971,11 @@
         "origDate": "[0365-04-05/0365-04-14]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -1005,11 +1016,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1049,10 +1059,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1091,9 +1101,11 @@
         "origDate": "[0346-01-01/0350-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -1133,10 +1145,10 @@
         "origDate": "[0476-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1176,9 +1188,11 @@
         "origDate": "[0300-01-01/0301-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1218,9 +1232,11 @@
         "origDate": "[0314-01-01/0324-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1260,10 +1276,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1302,10 +1318,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "coord_name": "Unknown"
@@ -1342,9 +1358,11 @@
         "origDate": "0360-01-02",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -1385,10 +1403,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "coord_name": "Unknown"
@@ -1425,10 +1443,10 @@
         "origDate": "[0026-01-01/0175-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          1,
-          2
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "0",
+        "siecle 2": "1",
+        "siecle exact": "0",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -1468,10 +1486,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1511,9 +1529,11 @@
         "origDate": "[0340-01-01/0340-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1553,9 +1573,11 @@
         "origDate": "[0501-01-01/0550-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1595,10 +1617,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1638,11 +1660,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1682,10 +1703,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1725,11 +1746,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1769,10 +1789,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1812,11 +1832,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1855,11 +1874,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1899,10 +1917,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -1942,9 +1960,11 @@
         "origDate": "[0526-01-01/0575-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1984,10 +2004,10 @@
         "origDate": "[0551-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2026,12 +2046,10 @@
         "origDate": "[0401-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "7",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
@@ -2069,9 +2087,11 @@
         "origDate": "[0301-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2111,9 +2131,11 @@
         "origDate": "0342-01-28",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2153,9 +2175,11 @@
         "origDate": "[0500-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -2195,10 +2219,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -2238,9 +2262,11 @@
         "origDate": "[0550-01-01/0558-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -2280,10 +2306,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
@@ -2321,10 +2347,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -2364,10 +2390,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2406,9 +2432,11 @@
         "origDate": "0564-05-21",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "5",
+        "siecle 2": -1,
+        "siecle debut": "5",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2447,10 +2475,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2490,10 +2518,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "coord_name": "Unknown"
@@ -2530,10 +2558,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2573,9 +2601,11 @@
         "origDate": "0371-06-19",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -2615,10 +2645,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -2657,9 +2687,11 @@
         "origDate": "0476-05-05",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2698,9 +2730,11 @@
         "origDate": "[0300-01-01/0301-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2740,10 +2774,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2782,10 +2816,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2824,9 +2858,11 @@
         "origDate": "0379-04-26",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -2867,11 +2903,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2910,9 +2945,11 @@
         "origDate": "0564-05-21",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "5",
+        "siecle 2": -1,
+        "siecle debut": "5",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2952,9 +2989,11 @@
         "origDate": "[0601-01-01/0625-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          7
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2993,10 +3032,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -3035,9 +3074,11 @@
         "origDate": "[0360-01-01/0360-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3076,11 +3117,10 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "5",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3120,9 +3160,11 @@
         "origDate": "[0624-01-01/0624-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          7
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3162,10 +3204,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3204,10 +3246,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -3247,10 +3289,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "coord_name": "Unknown"
@@ -3287,10 +3329,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3330,9 +3372,11 @@
         "origDate": "[0501-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3372,9 +3416,11 @@
         "origDate": "[0301-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3415,9 +3461,11 @@
         "origDate": "0517-01-14",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "5",
+        "siecle 2": -1,
+        "siecle debut": "5",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -3457,9 +3505,11 @@
         "origDate": "0473-05-16",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -3498,9 +3548,11 @@
         "origDate": "[0550-01-01/0558-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -3540,9 +3592,11 @@
         "origDate": "[0548-07-01/0548-12-28]",
         "precision": "Medium",
         "provenance": "composed",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "Thracia",
@@ -3581,9 +3635,11 @@
         "origDate": "[0548-07-01/0548-12-28]",
         "precision": "Medium",
         "provenance": "found",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3623,11 +3679,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3666,10 +3721,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -3708,10 +3763,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3751,9 +3806,11 @@
         "origDate": "[0317-01-01/0323-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "settlement": "Hermopolis",
@@ -3791,10 +3848,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3834,11 +3891,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -3877,11 +3933,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -3921,9 +3976,11 @@
         "origDate": "[0325-01-01/0325-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "coord_name": "Unknown"
@@ -3960,10 +4017,10 @@
         "origDate": "[0476-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -4003,10 +4060,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4045,10 +4102,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -4088,10 +4145,10 @@
         "origDate": "[0476-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -4131,9 +4188,11 @@
         "origDate": "[0357-01-01/0362-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4174,9 +4233,11 @@
         "origDate": "0472-06-26",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4215,10 +4276,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4256,10 +4317,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -4299,9 +4360,11 @@
         "origDate": "0410-08-09",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4342,10 +4405,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -4385,10 +4448,10 @@
         "origDate": "[0451-01-01/0525-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -4427,9 +4490,11 @@
         "origDate": "0325-04-16",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4470,11 +4535,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "coord_name": "Unknown"
@@ -4511,11 +4575,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4554,12 +4617,10 @@
         "origDate": "[0401-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "7",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
@@ -4597,10 +4658,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4639,10 +4700,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4682,10 +4743,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -4725,10 +4786,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4767,10 +4828,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4809,10 +4870,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4851,10 +4912,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4893,11 +4954,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -4937,9 +4997,11 @@
         "origDate": "[0401-01-01/0450-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -4978,10 +5040,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5021,9 +5083,11 @@
         "origDate": "0473-09-08",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5062,11 +5126,10 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "5",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5106,10 +5169,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5149,11 +5212,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5193,11 +5255,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5236,10 +5297,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5278,9 +5339,11 @@
         "origDate": "0322-06-16",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5320,10 +5383,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5363,11 +5426,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5407,9 +5469,11 @@
         "origDate": "0322-05-26",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5449,12 +5513,10 @@
         "origDate": "[0401-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          5,
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "7",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "coord_name": "Unknown"
@@ -5491,10 +5553,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5533,9 +5595,11 @@
         "origDate": "0385-11-14",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -5576,10 +5640,10 @@
         "origDate": "[0301-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5619,10 +5683,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "coord_name": "Unknown"
@@ -5659,10 +5723,10 @@
         "origDate": "[0451-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "coord_name": "Unknown"
@@ -5699,11 +5763,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "coord_name": "Unknown"
@@ -5740,9 +5803,11 @@
         "origDate": "0482-03-08",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5782,9 +5847,11 @@
         "origDate": "[0577-05-01/0583-12-28]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5824,10 +5891,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5866,10 +5933,10 @@
         "origDate": "[0376-01-01/0400-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          4,
-          5
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "4",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -5907,10 +5974,10 @@
         "origDate": "[0576-01-01/0625-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "settlement": "Apollonopolis Heptakomias",
@@ -5948,11 +6015,10 @@
         "origDate": "[0401-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          5,
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "6",
+        "siecle exact": "4",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -5991,11 +6057,10 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          4,
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "5",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6035,10 +6100,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -6078,10 +6143,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -6120,10 +6185,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -6163,10 +6228,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -6205,9 +6270,11 @@
         "origDate": "[0501-01-01/0550-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -6247,9 +6314,11 @@
         "origDate": "[0553-01-01/0553-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -6289,9 +6358,11 @@
         "origDate": "0389-01-20",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6331,10 +6402,10 @@
         "origDate": "[0401-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "4",
+        "siecle 2": "5",
+        "siecle exact": "4",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "coord_name": "Unknown"
@@ -6371,9 +6442,11 @@
         "origDate": "0564-05-27",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          6
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "5",
+        "siecle 2": -1,
+        "siecle debut": "5",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -6412,10 +6485,10 @@
         "origDate": "[0501-01-01/0600-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "6",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "settlement": "Alexandria",
@@ -6453,11 +6526,10 @@
         "origDate": "[0501-01-01/0700-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          6,
-          7,
-          8
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "5",
+        "siecle 2": "7",
+        "siecle exact": "5",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -6497,9 +6569,11 @@
         "origDate": "0475-01-31",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          5
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "4",
+        "siecle 2": -1,
+        "siecle debut": "4",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -6538,11 +6612,10 @@
         "origDate": "[0301-01-01/0500-12-31]",
         "precision": "Medium",
         "provenance": "unknown",
-        "centuries": [
-          4,
-          5,
-          6
-        ],
+        "exactitude siecle": "Not Exact",
+        "siecle 1": "3",
+        "siecle 2": "5",
+        "siecle exact": "3",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "coord_name": "Unknown"
@@ -6579,9 +6652,11 @@
         "origDate": "0321-04-10",
         "precision": "High",
         "provenance": "located",
-        "centuries": [
-          4
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "3",
+        "siecle 2": -1,
+        "siecle debut": "3",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -6621,9 +6696,11 @@
         "origDate": "[0626-01-01/0675-12-31]",
         "precision": "Medium",
         "provenance": "located",
-        "centuries": [
-          7
-        ],
+        "exactitude siecle": "Exact",
+        "siecle 1": "0",
+        "siecle 2": -1,
+        "siecle debut": "0",
+        "siecle fin": -1,
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
